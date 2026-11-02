@@ -200,7 +200,8 @@ svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width:
 .logo:hover { transform: scale(1.05); }
 .logo-apex { height: 64px; max-width: 200px; }
 .logo-carelon { height: 34px; max-width: 160px; }
-.logo-ct { height: 46px; max-width: 120px; }
+.logo-ct,
+.logo-ignite { height: 46px; max-width: 120px; }
 
 .header-center { text-align: center; position: relative; z-index: 1; }
 
